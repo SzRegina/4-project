@@ -1,0 +1,12 @@
+.main{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    border: 2px white solid;
+    position: absolute;
+    grid-template-rows: 5fr;
+    border: 1px solid salmon;
+    top: 320px;
+    left: 300px;
+    width: 700px;
+    height: 600px;
+}

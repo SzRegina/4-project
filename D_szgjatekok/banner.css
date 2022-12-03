@@ -1,0 +1,15 @@
+div.banner{
+    position: inherit;
+}
+#banner{
+    position: absolute;
+    top: 5px;
+    left: 300px;
+    width: 700px;
+    height: 300px;
+}
+#bgpic{
+    width: auto;
+    height: auto;
+
+}
